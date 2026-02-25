@@ -111,7 +111,3 @@ Add investor recommendation system
 
 Developed as part of SmartInternz Machine Learning Internship
 
-📬 Author
-
-Bhargavi Sai
-GitHub: https://github.com/bhargavisai20
